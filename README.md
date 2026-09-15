@@ -4,7 +4,7 @@ An AI-powered platform designed to match individuals with suitable opportunities
 
 ## 🚀 Live Demo
 
-[Visit Talent Align](https://talent-align-xi.vercel.app)
+[Visit Talent Align](https://talent-align-12.preview.emergentagent.com/?job=83d0b710-6820-42e4-a3d8-e650fb18490a)
 
 ## 💡 Problem Statement
 
@@ -37,4 +37,4 @@ Talent Align helps users discover suitable opportunities by analyzing their skil
 ## 🔗 Links
 
 **Live Demo:**  
-https://talent-align-xi.vercel.app
+https://talent-align-12.preview.emergentagent.com/?job=83d0b710-6820-42e4-a3d8-e650fb18490a
