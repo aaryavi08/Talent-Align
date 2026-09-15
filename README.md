@@ -31,8 +31,8 @@ Talent Align helps users discover suitable opportunities by analyzing their skil
 
 ## 👥 Team
 
-Y.Katyusha-Team Leader
-P.SaiKumar-technical head
+- Y.Katyusha-Team Leader
+- P.SaiKumar-technical head
 
 ## 🔗 Links
 
