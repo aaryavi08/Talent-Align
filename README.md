@@ -23,11 +23,11 @@ Talent Align helps users discover suitable opportunities by analyzing their skil
 
 ## 🛠️ Technologies Used
 
-Deployment/Hosting: Vercel
-Development platform: v0
-Project type: Web application
-Core functionality: AI resume-to-job matching
-Matching: Candidates ranked using skills, experience, and stack synergy
+- Deployment/Hosting: Vercel
+- Development platform: v0
+- Project type: Web application
+- Core functionality: AI resume-to-job matching
+- Matching: Candidates ranked using skills, experience, and stack synergy
 
 ## 👥 Team
 
